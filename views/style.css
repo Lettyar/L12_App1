@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+header nav { display: flex; gap: 15px; align-items: center; }
+table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+table, th, td { border: 1px solid #ccc; padding: 8px; }
+button { cursor: pointer; margin-left: 5px; }
+form { display: flex; flex-direction: column; gap: 10px; max-width: 400px; }
+input, select { padding: 5px; }
